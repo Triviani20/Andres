@@ -1,0 +1,4 @@
+{
+"TypeCoin": "BTC",
+"Value": 39912
+}

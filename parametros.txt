@@ -1,0 +1,6 @@
+{
+"number_slots_left" : 3,
+"number_slots_right" : 3,
+"strike_gap" : 500,
+"interval_frame" : 2
+}
